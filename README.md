@@ -7,16 +7,16 @@ In order to get a preview with the statistics I would be analyzing I created mul
 Happiness Score
 Using the groupby function, I was able to compile each country into their respective regions and determine which regions have the highest happiness scores. The ten regions ranked by their happines score are as follows.
 
-Australia and New Zealand (7.32)
-North America (7.10)
-Western Europe (6.69)
-Latin America and the Carribean (6.10)
-Eastern Asia (5.62)
-Middle East and Northern Africa (5.39)
-Central and Eastern Europe (5.37)
-Southeastern Asia (5.34) 
-Southern Asia (4.56)
-Sub Saharan Africa (4.14)
+1. Australia and New Zealand (7.32)
+2. North America (7.10)
+3. Western Europe (6.69)
+4. Latin America and the Carribean (6.10)
+5. Eastern Asia (5.62)
+6. Middle East and Northern Africa (5.39)
+7. Central and Eastern Europe (5.37)
+8. Southeastern Asia (5.34) 
+9. Southern Asia (4.56)
+10. Sub Saharan Africa (4.14)
 
 The top 10 happiest countries are
 1. Denmark
