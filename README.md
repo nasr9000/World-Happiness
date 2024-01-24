@@ -42,3 +42,121 @@ The top 10 saddest countries are
 9. Tanzania
 10. Madagascar 
 
+Happiness Score
+Using the groupby function, I was able to compile each country into their respective regions and determine which regions have the highest happiness scores. The ten regions ranked by their happines score are as follows.
+
+Australia and New Zealand (7.32)
+North America (7.10)
+Western Europe (6.69)
+Latin America and the Carribean (6.10)
+Eastern Asia (5.62)
+Middle East and Northern Africa (5.39)
+Central and Eastern Europe (5.37)
+Southeastern Asia (5.34) 
+Southern Asia (4.56)
+ Sub Saharan Africa (4.14)
+
+The top 10 happiest countries are
+1. Denmark
+2. Switzerland 
+3. Norway 
+4. Iceland 
+5. Finland
+6. Canada 
+7. Netherlands
+8. New Zealand
+9. Australia
+10. Sweden
+
+The top 10 saddest countries are
+Burundi
+Syria
+Togo
+Afghanistan 
+Benin 
+Rwanda 
+Guinea
+Liberia
+Tanzania
+ Madagascar 
+
+
+
+Happiness Score
+Using the groupby function, I was able to compile each country into their respective regions and determine which regions have the highest happiness scores. The ten regions ranked by their happines score are as follows.
+
+Australia and New Zealand (7.32)
+North America (7.10)
+Western Europe (6.69)
+Latin America and the Carribean (6.10)
+Eastern Asia (5.62)
+Middle East and Northern Africa (5.39)
+Central and Eastern Europe (5.37)
+Southeastern Asia (5.34) 
+Southern Asia (4.56)
+ Sub Saharan Africa (4.14)
+
+The top 10 happiest countries are
+1. Denmark
+2. Switzerland 
+3. Norway 
+4. Iceland 
+5. Finland
+6. Canada 
+7. Netherlands
+8. New Zealand
+9. Australia
+10. Sweden
+
+The top 10 saddest countries are
+Burundi
+Syria
+Togo
+Afghanistan 
+Benin 
+Rwanda 
+Guinea
+Liberia
+Tanzania
+ Madagascar 
+
+Happiness Score
+Using the groupby function, I was able to compile each country into their respective regions and determine which regions have the highest happiness scores. The ten regions ranked by their happines score are as follows.
+
+Australia and New Zealand (7.32)
+North America (7.10)
+Western Europe (6.69)
+Latin America and the Carribean (6.10)
+Eastern Asia (5.62)
+Middle East and Northern Africa (5.39)
+Central and Eastern Europe (5.37)
+Southeastern Asia (5.34) 
+Southern Asia (4.56)
+ Sub Saharan Africa (4.14)
+
+The top 10 happiest countries are
+1. Denmark
+2. Switzerland 
+3. Norway 
+4. Iceland 
+5. Finland
+6. Canada 
+7. Netherlands
+8. New Zealand
+9. Australia
+10. Sweden
+
+The top 10 saddest countries are
+Burundi
+Syria
+Togo
+Afghanistan 
+Benin 
+Rwanda 
+Guinea
+Liberia
+Tanzania
+ Madagascar 
+
+
+
