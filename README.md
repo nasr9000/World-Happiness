@@ -51,7 +51,7 @@ The top 10 saddest countries are
 
 
 Freedom
-To conduct my analysis on freedom scores I decided to compare the overall happiness rank of each country and compare their respective freedom scores to their happiness rank. What I found when analyzing this data frame is that having a higher or lower Freedom score is not a dependable indicator of increased happiness scores. When looking at a majority of the bar graph that was produced using the plt. function, some countries such as Cambodia or Uzbekistan have high freedom scores but a mid or low happiness rank. Here is a graph that demonstrates the strength of the correlation between Freedom and Happiness for each country. 
+To conduct my analysis on freedom scores I decided to compare the overall happiness rank of each country and compare their respective freedom scores to their happiness rank. What I found when analyzing this data frame is that having a higher or lower Freedom score is not a dependable indicator of increased happiness scores. When looking at a majority of the bar graph that was produced using the plt. function, some countries such as Cambodia or Uzbekistan have high freedom scores but a mid or low happiness rank. Here is a graph that demonstrates the strength of the correlation between Freedom and Happiness for each country. We can see that the plots are pretty spread out which indicates that there is a high variation in the results produced when comparing these variables. 
 
 ![image](https://github.com/nasr9000/World-Happiness/assets/128746625/9be64f1c-fa46-457f-875e-3af5f9cadad5)
 
