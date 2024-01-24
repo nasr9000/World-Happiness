@@ -7,6 +7,10 @@ Intro: I chose this to be my very first solo project because we currently face a
 
 In order to get a preview with the statistics I would be analyzing I created multiple frames using the .groupby function comparing two or more metrics. I did a Region vs Happiness Score, Country vs Happiness Score, Happiness Rank vs Freedom score, Region vs Health (life expectancy), and a Happiness vs Govt Corruption score. I used these frames to see the top 10 of each region or country to see where they score in a general sense. 
 
+
+![image](https://github.com/nasr9000/World-Happiness/assets/128746625/76ab639d-0268-48c1-b0e8-fbc7074ec68b)
+
+
 Happiness Score
 Using the groupby function, I was able to compile each country into their respective regions and determine which regions have the highest happiness scores. The ten regions ranked by their happines score are as follows.
 
