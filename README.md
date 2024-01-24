@@ -5,7 +5,7 @@ Intro: I chose this to be my very first solo project because we currently face a
 ![image](https://github.com/nasr9000/World-Happiness/assets/128746625/372d298f-f2dd-4e95-8e35-fb3088f6e5ec)
 
 
-In order to get a preview with the statistics I would be analyzing I created multiple frames using the .groupby function comparing two or more metrics. I did a Region vs Happiness Score, Country vs Happiness Score, Happiness Rank vs Freedom score, Region vs Health (life expectancy), and a Happiness vs Govt Corruption score. I used these frames to see the top 10 of each region or country to see where they score in a general sense. 
+In order to get a preview with the statistics I would be analyzing, I created multiple frames using the .groupby function comparing two or more metrics. I did a Region vs Happiness Score, Country vs Happiness Score, Happiness Rank vs Freedom score, Region vs Health (life expectancy), and a Happiness vs Govt Corruption score. I used these frames to see the top 10 of each region or country to see where they score in a general sense. 
 
 
 ![image](https://github.com/nasr9000/World-Happiness/assets/128746625/76ab639d-0268-48c1-b0e8-fbc7074ec68b)
